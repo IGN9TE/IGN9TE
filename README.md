@@ -1,7 +1,7 @@
 <div align="center">
 
-  <!-- Animated Waving Neon Header -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:bc8cff&height=220&section=header&text=Hey%20There!%20I'm%20Vaibhav%20Shah%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%F0%9F%94%A5%20IGN9TE%20%7C%201st%20Year%20Computer%20Engineering%20%7C%20Developer%20%26%20Creator%20%F0%9F%9A%80&descAlignY=58&descSize=17" width="100%" />
+ <!-- Animated Waving Neon Header -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:bc8cff&height=220&section=header&text=Hey%20There!%20I'm%20Vaibhav%20Shah%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%F0%9F%94%A5%20IGN9TE%20%7C%201st%20Year%20Computer%20Engineering%20%7C%20Developer%20and%20Creator%20%F0%9F%9A%80&descAlignY=58&descSize=17" width="100%" />
 
   <!-- Animated Multi-Line Typing SVG -->
   <a href="https://git.io/typing-svg">
