@@ -48,9 +48,8 @@
 └─$ neofetch --status
 
 OS      : Student Engineer v1.0 🚀
-Host    : OPS Mini PC (i5-11300H) ⚡
-Display : Wall-Mounted TV (~2ft Up) 🖥️
-Input   : Lapcare KB + EvoFox Spectre 🖱️
+Host    : Lenovo LOQ 4050⚡
+Display : Wall-Mounted TV 4k oled 🖥️
 Coding  : ████████░░ 80% (Java/C++)
 Reels   : █████████░ 90% (Editing)
 Vibe    : ██████████ 100% (Music On 🎧)
@@ -69,8 +68,8 @@ Vibe    : ██████████ 100% (Music On 🎧)
   <blockquote>
     <p>✨ Built for coding marathons, timeline video editing, and aesthetic content creation:</p>
     <ul>
-      <li>📺 <b>Elevated Display:</b> Wall-mounted TV monitor positioned ~2 ft above the desk for an expansive command-center view</li>
-      <li>⚙️ <b>Compute Engine:</b> Open Pluggable Specification (OPS) Mini PC powered by <b>11th Gen Intel Core i5-11300H</b> & <b>Intel Iris Xe Graphics</b></li>
+      <li>📺 <b>Elevated Display:</b> Wall-mounted TV monitor 4k oled 🖥️ positioned ~2 ft above the desk for an expansive command-center view</li>
+      <li>⚙️ <b>Compute Engine:</b>  Lenovo LOQ 4050 powered by <b>Rhyzen 7 7700 </b> & <b>RTX 4050 (8GB) Graphics</b></li>
       <li>⌨️ <b>Peripherals:</b> <b>Lapcare</b> Gaming Keyboard & <b>EvoFox Spectre</b> Gaming Mouse</li>
       <li>🖼️ <b>Wall Aesthetics:</b> Custom anime & automotive poster backdrop</li>
       <li>🔗 <b>Full Setup Links:</b> <a href="https://beacons.ai/blaza_setup"><b>beacons.ai/blaza_setup</b></a></li>
