@@ -1,6 +1,6 @@
 <div align="center">
 
-  <!-- Animated Waving Neon Header -->  
+  <!-- Animated Waving Neon Header -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:1f6feb,100:bc8cff&height=220&section=header&text=Hey%20There!%20I'm%20Vaibhav%20Shah%20%F0%9F%91%8B&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%F0%9F%94%A5%20IGN9TE%20%7C%201st%20Year%20Computer%20Engineering%20%7C%20Developer%20%26%20Creator%20%F0%9F%9A%80&descAlignY=58&descSize=17" width="100%" />
 
   <!-- Animated Multi-Line Typing SVG -->
@@ -10,7 +10,7 @@
 
   <br/><br/>
 
-  <!-- Interactive Action Badges -->
+  <!-- Interactive Action Badges & Views Counter -->
   <a href="https://beacons.ai/blaza_setup">
     <img src="https://img.shields.io/badge/%E2%9C%A8_Explore_My_Desk_Setup_&_Links-58a6ff?style=for-the-badge&logoColor=white" alt="Desk Setup & Links" />
   </a>
@@ -20,6 +20,8 @@
   <a href="mailto:vaibhavshambhushah07@gmail.com">
     <img src="https://img.shields.io/badge/%F0%9F%93%AC_Email_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
+  <br/><br/>
+  <img src="https://komarev.com/ghpvc/?username=IGN9TE&color=bc8cff&style=flat-square&label=PROFILE+VIEWS" alt="Profile Views" />
 
 </div>
 
@@ -137,7 +139,15 @@ Vibe    : ██████████ 100% (Music On 🎧)
 
 ---
 
-### 📊 GitHub Activity & Streak
+### 🏆 Trophies & Stats
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=IGN9TE&theme=tokyonight&margin-w=15&margin-h=15&column=7&no-frame=true&no-bg=true" alt="IGN9TE Trophies" />
+  </a>
+</div>
+
+<br/>
 
 <div align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=IGN9TE&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" alt="GitHub Stats" />
